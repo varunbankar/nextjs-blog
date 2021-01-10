@@ -8,13 +8,10 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             <main>
-                <h1>
+                <h1 className="mt-4 text-7xl font-bold text-blue-900 text-center">
                     Hello Next.js
                 </h1>
             </main>
-            <footer>
-                Footer
-            </footer>
         </div>
     )
 }

@@ -1,8 +1,10 @@
+/* noinspection CssInvalidAtRule */
 @tailwind base;
 
 /* Write your own custom base styles here */
 
 /* Start purging... */
+/* noinspection CssInvalidAtRule */
 @tailwind components;
 /* Stop purging. */
 
@@ -17,6 +19,7 @@ body {
 }
 
 /* Start purging... */
+/* noinspection CssInvalidAtRule */
 @tailwind utilities;
 /* Stop purging. */
 
