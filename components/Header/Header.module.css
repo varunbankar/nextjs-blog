@@ -1,4 +1,4 @@
 
 .navbar {
-    @apply px-4 py-4 font-bold text-white bg-blue-500;
+    @apply px-4 py-5 font-bold text-2xl text-gray-100 bg-green-800 shadow;
 }
