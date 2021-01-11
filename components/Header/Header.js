@@ -1,9 +1,10 @@
 import styles from './Header.module.css'
+import Link from "next/link";
 
 export default function Header() {
     return (
         <nav className={styles.navbar}>
-            Next.js Blog
+            <Link href={"/"}>Next.js Blog</Link>
         </nav>
     )
 }
